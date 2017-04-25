@@ -1,6 +1,6 @@
 # npmtest-package-script
 
-#### test coverage for  [package-script (v0.0.8)](https://github.com/lastboy)  [![npm package](https://img.shields.io/npm/v/npmtest-package-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-package-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-package-script.svg)](https://travis-ci.org/npmtest/node-npmtest-package-script)
+#### basic test coverage for  [package-script (v0.0.8)](https://github.com/lastboy)  [![npm package](https://img.shields.io/npm/v/npmtest-package-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-package-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-package-script.svg)](https://travis-ci.org/npmtest/node-npmtest-package-script)
 
 #### Spawn external process in additional to the package install
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-package-script/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-package-script/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-package-script/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-package-script/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-package-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-package-script/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-package-script/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-package-script/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-package-script/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-package-script/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-package-script/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-package-script/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "0.0.8"
+    "version": "0.0.8",
+    "bin": {}
 }
 ```
 

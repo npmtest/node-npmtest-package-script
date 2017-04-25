@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [package-script (v0.0.8)](https://github.com/lastboy)  [![npm package](https://img.shields.io/npm/v/npmtest-package-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-package-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-package-script.svg)](https://travis-ci.org/npmtest/node-npmtest-package-script)",
+    "description": "#### basic test coverage for  [package-script (v0.0.8)](https://github.com/lastboy)  [![npm package](https://img.shields.io/npm/v/npmtest-package-script.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-package-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-package-script.svg)](https://travis-ci.org/npmtest/node-npmtest-package-script)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "package-script": "*",
